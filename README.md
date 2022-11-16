@@ -6,7 +6,7 @@
 
 <hr>
 
-###### BackEnd - Spring Boot   <img align="right" src="https://wakatime.com/badge/github/Me-Jitesh/TuringAwardee.svg" alt="wakatime"></img>
+###### BackEnd - Spring Boot   <img align="right" src="https://wakatime.com/badge/github/Me-Jitesh/TuringAwardee.svg?style=for-the-badge" alt="wakatime"></img>
 
 - Java
 - Spring Rest
@@ -17,7 +17,7 @@
 
 <hr>
 
-###### FrontEnd - Android   <img align="right" src="https://wakatime.com/badge/github/Me-Jitesh/TuringLaureate.svg" alt="wakatime"></img>
+###### FrontEnd - Android   <img align="right" src="https://wakatime.com/badge/github/Me-Jitesh/TuringLaureate.svg?style=social" alt="wakatime"></img>
 
 - Java
 - Recycler View
@@ -26,6 +26,6 @@
 
 <hr>
 
-###### FrontEnd - Angular <img align="right" src="https://wakatime.com/badge/user/3c1dc126-af1b-434f-a59f-8cb202e218eb/project/000c7d26-5028-4940-b154-2f023c361047.svg"></img>
+###### FrontEnd - Angular <img align="right" src="https://wakatime.com/badge/user/3c1dc126-af1b-434f-a59f-8cb202e218eb/project/000c7d26-5028-4940-b154-2f023c361047.svg?style=plastic"></img>
 
 - TypeScript
